@@ -1,0 +1,9 @@
+[package]
+name = "webScraper"
+version = "0.1.0"
+authors = ["wolsborn"]
+edition = "2018"
+
+[dependencies]
+reqwest = "^0.9.15"
+regex = "^1.1.6"
